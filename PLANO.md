@@ -176,4 +176,37 @@ Se o seu objetivo for empregabilidade rápida ou consultoria corporativa, consid
 
 ---
 
+## 📚 Referências Bibliográficas Recomendadas
+
+Para aprofundar seus estudos teóricos e práticos, aqui estão alguns dos livros e artigos acadêmicos mais conceituados e atuais na área de cibersegurança tradicional e segurança de inteligência artificial.
+
+### 1. Cibersegurança Tradicional, Redes e Sistemas
+*   **"Redes de Computadores"** – Andrew S. Tanenbaum & David J. Wetherall. (O clássico absoluto para entender a base de como a internet funciona).
+*   **"Segurança de Computadores: Princípios e Práticas"** – William Stallings & Lawrie Brown. (Excelente visão geral sobre criptografia, segurança de sistemas e redes).
+*   **"The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws"** – Dafydd Stuttard & Marcus Pinto. (Bíblia da segurança de aplicações web).
+*   **"Hacking: The Art of Exploitation"** – Jon Erickson. (Excelente para entender engenharia reversa, buffer overflows e baixo nível).
+
+### 2. Criptografia
+*   **"Criptografia e Segurança de Redes"** – William Stallings. (Foco matemático e prático muito forte nos algoritmos AES, RSA, ECC e protocolos).
+*   **"Serious Cryptography: A Practical Introduction to Modern Encryption"** – Jean-Philippe Aumasson. (Uma introdução moderna, prática e direto ao ponto).
+
+### 3. Adversarial Machine Learning & Segurança de IA (Livros e Artigos)
+*   **"Adversarial Machine Learning"** – Anthony D. Joseph, Blaine Nelson, Benjamin I. P. Rubinstein, J. D. Tygar. (Livro excelente sobre as bases teóricas de ataques a modelos de ML).
+*   **Artigo Seminal (FGSM):** *"Explaining and Harnessing Adversarial Examples"* (2014) – Ian J. Goodfellow, Jonathon Shlens, Christian Szegedy. (O artigo que popularizou os exemplos adversários e o ataque FGSM).
+    *   [Link no arXiv](https://arxiv.org/abs/1412.6572)
+*   **Artigo PGD:** *"Towards Deep Learning Models Resistant to Adversarial Attacks"* (2017) – Aleksander Madry, Aleksandr Makelov, Ludwig Schmidt, Dimitris Tsipras, Adrian Vladu. (Introdução do PGD e do treinamento adversário robusto).
+    *   [Link no arXiv](https://arxiv.org/abs/1706.06083)
+*   **Artigo Carlini & Wagner:** *"Towards Evaluating the Robustness of Neural Networks"* (2017) – Nicholas Carlini, David Wagner. (Demonstra como quebrar as defesas mais comuns da época).
+    *   [Link no arXiv](https://arxiv.org/abs/1608.04644)
+*   **Model Poisoning:** *"Poison Frogs! Targeted Clean-Label Poisoning Attacks on Neural Networks"* (2018) – Ali Shafahi, W. Ronny Huang, Mahyar Najibi, Octavian Suciu, Christoph Studer, Tudor Dumitras, Tom Goldstein.
+    *   [Link no arXiv](https://arxiv.org/abs/1804.00792)
+
+### 4. Segurança de LLMs (Large Language Models)
+*   **Artigo de Jailbreaking:** *"Universal and Transferable Adversarial Attacks on Aligned Language Models"* (2023) – Andy Zou, Zifan Wang, J. Zico Kolter, Matt Fredrikson. (Mostra como gerar sufixos adversários automáticos para induzir LLMs a responder conteúdos proibidos).
+    *   [Link no arXiv](https://arxiv.org/abs/2307.15043)
+*   **OWASP Document:** *"OWASP Top 10 for Large Language Model Applications"* – OWASP Foundation. (Guia prático indispensável atualizado frequentemente sobre os principais riscos de segurança de LLMs).
+    *   [Link oficial do OWASP](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
+
+---
+
 *“A cibersegurança não é apenas sobre quebrar sistemas; é sobre entender como os sistemas funcionam tão profundamente que você consegue prever onde eles falharão.”* Bons estudos!
